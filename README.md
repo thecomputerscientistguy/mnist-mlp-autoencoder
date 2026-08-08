@@ -181,7 +181,7 @@ The reconstructed images demonstrate that the manually implemented autoencoder s
 ## Project Structure
 
 ```
-.
+./
 ├── notebooks/
 │   └── main.ipynb          # Complete implementation and experiments
 │
